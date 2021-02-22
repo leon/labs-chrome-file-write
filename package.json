@@ -2,7 +2,7 @@
   "name": "labs-native-file-system-write",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --https",
     "build": "vite build",
     "serve": "vite preview"
   },
